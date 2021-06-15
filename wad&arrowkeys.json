@@ -1,0 +1,13 @@
+function(controls) {
+control1 = "w" 
+  w = jump in game if pressed w return with  
+  print "jump"
+  async "jump,moveleft,moveright" jumppower = 245 
+  moveleft = -267
+  moveright = 267
+  a = moveright 
+  d = moveleft
+  jump in game with jumppower
+  import scratch 
+} 
+functions = import,return,with,function,in,print,async,moveleft,moveright,jump in game,jumppower
