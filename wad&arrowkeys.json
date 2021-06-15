@@ -1,4 +1,4 @@
-function(controls) {
+function {
 control1 = "w" 
   w = jump in game if pressed w return with  
   print "jump"
@@ -10,4 +10,8 @@ control1 = "w"
   jump in game with jumppower
   import scratch 
 } 
-functions = import,return,with,function,in,print,async,moveleft,moveright,jump in game,jumppower
+functions = import,return,with,function,in,print,async,moveleft,moveright,jump in game,jumppower,break,
+[break] 
+break 
+[pagebreak]
+<br />
